@@ -31,6 +31,6 @@ The detailed documentation for creating DevLake dashboard is available at [Dashb
 
 ## Checklist
 
-* Check [Weekly Tasks](Plan/tasks.md)
+* Check [Weekly Tasks](Tasks.md)
 
 

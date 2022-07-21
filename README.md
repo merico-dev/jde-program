@@ -17,9 +17,10 @@
 * Individual JDE should be adding their weekly updates [here](Team/README.md) (`Team/README.md`)
 * This GitHub repository is the primary source of information and guidelines of the program.
 * All the contributions are validated via GitHub only. 
-* Check out Weekly tasks [here](Plan/tasks.md) (`Plan/tasks.md`)
+* Check out Weekly tasks [here](Tasks.md) (`Tasks.md`)
 * Important announcements will be made in Slack and Emails
 * Use [DevLake press kit](https://drive.google.com/drive/folders/10PcKXiWkAg4uqlbv6uSXBeeO41L8O9eU?usp=sharing) for producing banner images, announcement posts, and social media outreach.
+* Strictly use the [Style Guide](Content/GUIDELINES.md) for writing content it is given by Apache. 
 
 For any queries or concerns, reach out to us on `maxim@merico.dev` and `joshua.poddoku@merico.dev`
 ## Introduction
