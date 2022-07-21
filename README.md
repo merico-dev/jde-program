@@ -3,10 +3,25 @@
 ![banner image](Docs/Banner-JDE.png)
 
 # Table of Content
-1. [Introduction](#introduction)
-2. [Core Goals](#core-goals)
-3. [Key Deliverables](#key-deliverables)
+1. [Rules](#rules)
+2. [Introduction](#introduction)
+3. [Core Goals](#core-goals)
+4. [Key Deliverables](#key-deliverables)
+5. [Curriculum](#curriculum)
+6. [Benefits](#benefits)
+7. [Note](#note)
 
+## Rules
+
+* **How to Contribute as a JDE? Fork, Create an issue, and followed by a pull request** (Read [CONTRIBUTING.md](CONTRIBUTING.md))
+* Individual JDE should be adding their weekly updates [here](Team/README.md) (`Team/README.md`)
+* This GitHub repository is the primary source of information and guidelines of the program.
+* All the contributions are validated via GitHub only. 
+* Check out Weekly tasks [here](Plan/tasks.md) (`Plan/tasks.md`)
+* Important announcements will be made in Slack and Emails
+* Use [DevLake press kit](https://drive.google.com/drive/folders/10PcKXiWkAg4uqlbv6uSXBeeO41L8O9eU?usp=sharing) for producing banner images, announcement posts, and social media outreach.
+
+For any queries or concerns, reach out to us on `maxim@merico.dev` and `joshua.poddoku@merico.dev`
 ## Introduction
 The DevLake Junior Developer Evangelist program is a more advanced and focused type of internship program, dedicated to growing and evolving our open-source presence and community for [Apache DevLake (incubating)](https://devlake.apache.org/). 
 
@@ -47,7 +62,7 @@ Growing, nurturing, and supporting our growing base of adoptions, contributors, 
 - Building and improving the developer experience, understanding different users (students, early developers, DevOps, Engineering leaders, CTOs, etc.) and translating those to dashboards, case studies, and more.
 - Create a 2x Hackathon Dashboard for participants and organizers. (Team activity)
 
-Check `Dashboard/README.md` for more information
+Check [Dashboard/README.md](Dashboard/README.md) for more information
 
 ### Outreach
 - Participate / Post in 1x thread/forum/discussion per week (on pre-approved forum/platform) 
@@ -56,9 +71,25 @@ Includes hosting, participating and collaborating in events, podcasts, regular e
 - Attend 2x community events. 
 - Host 1x community event/meetup/zoom/huddle/AMA etc.
 
-Check `Outreach/README.md` for more information
+Check [Outreach/README.md](Outreach/README.md) for more information
 
 **The positive result of all these specific goals will be more brand awareness, more adoption, and more growth for DevLake on other measures (Stars, Clones, Forks, etc.)**
 
+## Curriculum
 
+The goal of the program is to provide the participants with robust experience in community management, outreach, content creation, and open source evangelism. Go to [Curriculum.md](Curriculum.md) for more information.
 
+## Benefits
+
+* At the beginning of the program, the participants will receive DevLake apparel and stickers (to share with their friends and with developers they get in contact with.) 
+
+* The Junior Developer Evangelists will connect on a weekly huddle call for forty-five (45) minutes with Maxim to connect and sync up, and will engage on a daily basis (weekdays only) on the DevLake Slack in the main channel, and on a private channel dedicated to the program. 
+
+* At the conclusion of the program, the participants can declare themselves a Junior Developer Evangelist at Merico with a letter of endorsement and a recommendation. 
+
+* **Program participants will receive a total stipend/bonus  of $750(*) over the course of three months and will be  paid via GitHub sponsorship. Participants will also be given $100 USD of networking money each month designated for taking open-source contacts out for meals, drinks, coffees, etc.**
+
+**NOTE: $200 USD for the first month, followed by $250 and $300 for subsequent months.* 
+
+## Note
+The JDE (Junior Developer Evangelist) Program is subject to evolve, change and modify. Feel free to share your feedback in this discussion thread.
