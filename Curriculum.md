@@ -1,6 +1,6 @@
 # Curriculum
 
-All the tasks are updated in [Tasks.md](Plan/tasks.md)
+All the tasks are updated in [Tasks.md](Tasks.md)
 ## Week 1: Learning, Oriention
 - Deep-Dive Into DevLake [1.5 Hours]
 - Creating new Dashboards & Panels [1.5 Hours]
