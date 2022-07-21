@@ -1,0 +1,1 @@
+This Folder contains all the documentation with regards to the JDE Program only. For content submission, please check `Content/submit-your-content.md`
