@@ -17,8 +17,8 @@
 <!--- 
 Update your social handles, blogs, and useful URLs
 ---> 
-* [LinkedIn]()
-* [Twitter]()
+* [LinkedIn](https://www.linkedin.com/in/shubham-gupta-8b1168244/)
+* [Twitter](https://twitter.com/iamshubham1909)
 * [Polywork]()
 * [Dev.to]()
 
