@@ -15,16 +15,22 @@ It is important to start with Title of the content, Author name, and Date of Cre
 ## Types of Content 
 
 Given below is a list of types of content that can be possibly submitted. 
-You are free to explore and suggets more categories and concepts.
+You are free to explore and suggest more categories and concepts.
 
 ### Technical Blog
+Deep dive into a concept, code explanations, technical buzz.
 
 ### Community Blog
+Community focused blogs based on Go, Open source, DevOps, Data driven spaces.
 
-### Though Piece
+### Thought Piece
+If you are a thought leader, creative writer then feel free to share your wisdom.
 
 ### Tutorial
+Practical guides, Step-by-Step resolution of an issue, Setup guides, etc.
 
 ### Documentation
+Documentation fixes, improvements for [official Apache DevLake docs](https://devlake.apache.org/docs/Overview/Introduction)
 
 ### Use-case blogs
+Testimonies of potential users, Various dashboards, and use-cases of [Apache DevLake (incubating)](https://devlake.apache.org/)
