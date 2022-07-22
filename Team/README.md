@@ -1,7 +1,7 @@
 # Guidelines for JDEs
 * Keep your points precise, easy to understand, and clear
-* Make sure to follow the format and conventions in `Teams/your-name.md`
-* Feel free to use your individual `Teams/your-name.md` as your weekly diary
+* Make sure to follow the format and conventions in `Team/your-name.md`
+* Feel free to use your individual `Team/your-name.md` as your weekly diary
 
 # Useful formats
 
