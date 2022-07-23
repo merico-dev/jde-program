@@ -27,7 +27,7 @@ The detailed documentation for contributing content pieces is available at [Cont
 
 ## For DevLake Dashboard
 
-The detailed documentation for creating DevLake dashboard is available at [Dashboard/README.md](Dashboard/README.md).
+The detailed documentation for creating DevLake dashboard is available at [Dashboard/README.md](https://devlake.apache.org/docs/UserManuals/Dashboards/GrafanaUserGuide).
 
 ## Checklist
 
