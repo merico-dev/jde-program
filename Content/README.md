@@ -4,10 +4,14 @@
 
 ## Document Format
 It is important to start with Title of the content, Author name, and Date of Creation.
+
+File name: `issue-no-your-first-name-topic`
 ```
 # Topic Name
-* Authored by
-* Created on 
+* Authored by: 
+* Content Type: 
+* Created on: 
+* URL:
 // Rest of your content
 
 ```
