@@ -5,7 +5,7 @@
 ## Document Format
 It is important to start with Title of the content, Author name, and Date of Creation.
 
-File name: `issue-no-your-first-name-topic`
+File name: `issue-no-your-first-name-topic.md`
 ```
 # Topic Name
 * Authored by: 
