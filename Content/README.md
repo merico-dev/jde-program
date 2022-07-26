@@ -1,4 +1,11 @@
-# Submit your content
+# Process for submitting the content
+1. Brainstorming with Team
+2. First Draft
+3. Request for Final Review to Maxim/Joshua
+4. Publish on Dev.to
+5. Distribute on Different platforms (add canonical URL)
+
+## Submit your content
 
 * Use the format: `Technical-Blog-How-to-Setup.md` to name the doc
 
