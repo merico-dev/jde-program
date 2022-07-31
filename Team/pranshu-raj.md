@@ -17,10 +17,10 @@
 <!--- 
 Update your social handles, blogs, and useful URLs
 ---> 
-* [LinkedIn]()
-* [Twitter]()
-* [Polywork]()
-* [Dev.to]()
+* [LinkedIn](https://www.linkedin.com/in/pranshu-raj-961a49183/)
+* [Twitter](https://twitter.com/iampranshu_raj)
+* [Polywork](https://www.polywork.com/pranshu_raj)
+* [Dev.to](https://dev.to/pranshuraj)
 
 
 ## Week 01
@@ -33,4 +33,6 @@ update key learnings, contributions, achievements, objectives, and progress
 * Created a new [dashboard] that helps .... 
 * 
 ---> 
+
+## Week 02
 
