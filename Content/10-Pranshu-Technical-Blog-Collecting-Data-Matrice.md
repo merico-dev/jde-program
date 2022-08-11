@@ -4,3 +4,9 @@
 
 Haven't published this blog yet.
 Open for any changes or edits.
+
+
+## Done with all the edits which were suggested during the meeting.
+[X] Updated the elevator pitch.
+[X] Updated the all the SQL queries. 
+[X] Added a shocking gif.
