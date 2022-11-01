@@ -88,9 +88,8 @@ The goal of the program is to provide the participants with robust experience in
 
 * At the conclusion of the program, the participants can declare themselves a Junior Developer Evangelist at Merico with a letter of endorsement and a recommendation. 
 
-* **Program participants will receive a total stipend/bonus  of $750(*) over the course of three months and will be  paid via GitHub sponsorship. Participants will also be given $100 USD of networking money each month designated for taking open-source contacts out for meals, drinks, coffees, etc.**
+* **Program participants will receive a total stipend/bonus  of $600(*) over the course of three months and will be  paid via GitHub sponsorship.**
 
-**NOTE: $200 USD for the first month, followed by $250 and $300 for subsequent months.* 
 
 ## Note
 The JDE (Junior Developer Evangelist) Program is subject to evolve, change and modify. Feel free to share your feedback in this discussion thread.
